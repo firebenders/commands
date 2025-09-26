@@ -1,0 +1,10 @@
+{
+  "commands": [
+    {
+      "name": "hello world",
+      "path": "./hello-world.md",
+      "model": "default",
+      "mode": "auto"
+    }
+  ]
+}
